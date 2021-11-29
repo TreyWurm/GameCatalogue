@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981286695514",
+    "project_id": "gamecatalogue-767d4",
+    "storage_bucket": "gamecatalogue-767d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981286695514:android:388ec05619aeeebaf0de63",
+        "android_client_info": {
+          "package_name": "com.nukular.gamecatalogue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981286695514-sjtgvc3o7jh5et8vqq9vlgu0l9jv0sii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDj2qyFoyvrj5JDy7YdcRwnV4x0Y5Sn3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981286695514-sjtgvc3o7jh5et8vqq9vlgu0l9jv0sii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
